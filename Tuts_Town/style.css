@@ -1,0 +1,60 @@
+body{
+
+background-color: beige;
+
+}
+
+/* header styling*/
+
+h1{
+    color: #205d76;
+    font-size: 70px;
+}
+
+.header-style{
+    text-align: center;
+}
+
+#header-img{
+    width: 650px;
+}
+/* end style */
+
+/* Main styling */
+
+.store-section{
+    justify-content: center;
+    display: flex;
+}
+
+   
+.main-img{
+    height: 200px;
+    width: 200px;
+}
+
+.main-heading{
+    color: #205d76;
+    font-size: 30px;
+}
+
+.list-text{
+    color: orange;
+}
+
+.list-text2{
+    color: orange;
+    font-size: 22px;
+}
+
+
+
+footer {
+
+background-color:#ffc122;
+text-align: center;
+color: white;
+font-size: 20px;
+padding: 10px;
+
+}
